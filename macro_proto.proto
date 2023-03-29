@@ -1,0 +1,11 @@
+syntax = "proto2";
+
+package tutorial;
+
+message MyMessage {
+  required string macro = 1;
+}
+
+message MyMessage2 {
+  required string macro2 = 1;
+}

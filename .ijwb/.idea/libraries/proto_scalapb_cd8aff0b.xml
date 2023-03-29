@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="proto_scalapb_cd8aff0b">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel/05f620ddfc13ebdd3add281d5a4d5160/execroot/__main__/bazel-out/darwin_arm64-fastbuild/bin/proto_scalapb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///private/var/tmp/_bazel/05f620ddfc13ebdd3add281d5a4d5160/execroot/__main__/bazel-out/darwin_arm64-fastbuild/bin/proto_scalapb-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
