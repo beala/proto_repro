@@ -4,8 +4,13 @@ import tutorial.macro_proto.MyMessage2;
 
 class Test {
   // The parameter macro fails to resolve.
-  MyMessage()
   MyMessage(`macro` = "string")
+
+
+
+
+
+
 
   // An ~equivalent case class defined in the companion object with a parameter called macro works.
   MyLocalMessage(`macro` = "string")
